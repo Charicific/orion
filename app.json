@@ -81,6 +81,10 @@
        "description": "Get bot token from @BotFather on TG",
        "required": true,
        "value": ""
-    }
+    },
+     "DATABASE_URL": {
+         "description": "A sql database url from elephantsql.com",
+         "required": true,
+         "value": ""
  }
 }
