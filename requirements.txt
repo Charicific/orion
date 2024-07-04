@@ -30,6 +30,7 @@ markdown2==2.4.13
 MukeshAPI
 motor==3.5.0
 nekos.py
+opencv-python
 psycopg2-binary
 pydictionary==2.0.1
 pyfiglet
