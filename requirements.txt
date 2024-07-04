@@ -31,6 +31,7 @@ MukeshAPI
 motor==3.5.0
 nekos.py
 opencv-python
+pretty_errors
 psycopg2-binary
 pydictionary==2.0.1
 pyfiglet
